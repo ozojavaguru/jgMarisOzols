@@ -2,6 +2,8 @@ package lv.homework1;
 
 import java.util.Random;
 
+//Ok
+//Vēl ir arī obligatais mājas darbs - Aritmētiskās operācijas
 public class RandomNumbersServiceTest{
 
     public static void main(String[] args) {
